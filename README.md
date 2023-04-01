@@ -1,5 +1,7 @@
 # Node.js Fullstack Engineer Challenge
 
+I have adjusted this challenge slightly, after designing a system to handle document versioning I want to impliment it. I will add it in by allowing users to add or edit the synsopsis for each book. This will give me a chance to better learn and put into practice the solutions mentioned in step 2.
+
 You can submit all the answers to this assignment in a **private**, single repository or as a zipped folder, containing markdown and code. If you use GitHub, please share your answers with **reedsyapplications**.
 
 Answering all the questions to a Production-level standard should take approximately 1 or 2 work days.
