@@ -8,7 +8,8 @@ Answering all the questions to a Production-level standard should take approxima
 
 ## 1. About you
 
-Tell us about one of your commercial projects: 
+Tell us about one of your commercial projects:
+
 [UpLink](https://docs.google.com/document/d/1K0kUGZvBbnD260ljAxEy2WjatKYwigZ3cQk7xKDCq2I/edit?usp=sharing)
 
 ## 2. Document versioning
@@ -17,12 +18,14 @@ Detail how you would store several versioned novels.
 
 Your approach should:
 
-- [ ] show the novel in its current state
-- [ ] show the novel at any point in its history
-- [ ] show the changes made between two versions
-- [ ] prioritize disk space efficiency
-- [ ] discuss any trade-offs made, as well as potential mitigations
-- [ ] consider any potential domain-specific issues
+- [x] show the novel in its current state
+- [x] show the novel at any point in its history
+- [x] show the changes made between two versions
+- [x] prioritize disk space efficiency
+- [x] discuss any trade-offs made, as well as potential mitigations
+- [x] consider any potential domain-specific issues
+
+[Solutions](https://docs.google.com/document/d/1cyS0651tU1XdFVYL3WHWuizVy4lXbjSEsd0EXKdywUc/edit?usp=sharing)
 
 ## 3. Node.js REST API
 
